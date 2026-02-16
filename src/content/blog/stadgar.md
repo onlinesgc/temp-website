@@ -1,33 +1,27 @@
 ---
 title: 'Stadgar och årsmötesprotokoll'
 description: 'Onlineföreningen SGCs stadgar'
-pubDate: 'Feb 08 2025'
+pubDate: 'Feb 14 2026'
 heroImage: '/omoss2.png'
-altImageText: "Minecraft-stad"
+altImageText: "Tre coola SGC-are sitter vid en skärm"
 ---
 ## Årsmötesprotokoll
+- <a href="/download/årsmöte-2026.pdf">Årsmötesprotokoll 2026</a>
+- <a href="/download/årsmöte-2025-extra.pdf">Protokoll för Extrainsatt årsmöte 2025</a>
 - <a href="/download/årsmöte-2025.pdf">Årsmötesprotokoll 2025</a>
 - <a href="/download/årsmöte-2024.pdf">Årsmötesprotokoll 2024</a>
 - <a href="/download/årsmöte-2023.pdf">Årsmötesprotokoll 2023</a>
-- <a href="/download/uppstartsmöte-2022.pdf">Uppstartsmöte 2022</a>
+- <a href="/download/årsmöte-2022-uppstart.pdf">Uppstartsmöte 2022</a>
 ---
 ## Föreningens stadgar
-*Ändrades senast 8 februari 2025.*
+*Ändrades senast 14 februari 2025.*
 #### §1 Föreningen
-Föreningens namn är Onlineföreningen SGC.
-Föreningen har sitt säte på den ort där föreningsstyrelsen beslutat. Styrelsen har i uppdrag
-att på sitt första styrelsemöte efter årsmötet definiera föreningens säte.
-Föreningen verkar till stor del online.
-Föreningen är en ideell förening som är religiöst och partipolitiskt oberoende.
-Föreningen är ansluten till Sverok.
-Föreningens syfte är:
+Föreningens namn är Onlineföreningen SGC. Föreningen har sitt säte i Stockholm. Föreningen verkar till stor del online. Föreningen är en ideell förening som är religiöst och partipolitiskt oberoende. Föreningen är ansluten till Sverok. Föreningens syfte är:
 - att bedriva forum som är en trygg plats för ungdomar fri från våld och trakasserier,
 - att främja spel och spelkultur,
 - att främja intresset för demokrati,
-- att bedriva aktiviteter och projekt för unga att samlas kring.
-Föreningen arbetar med likabehandling för att alla medlemmar ska ha samma möjligheter
-och förutsättningar för att delta i verksamheten och påverka den.
-Föreningens verksamhetsår är 1 januari till 31 december.
+- att bedriva aktiviteter och projekt för unga att samlas kring. Föreningen arbetar med likabehandling för att alla medlemmar ska ha samma möjligheter och förutsättningar för att delta i verksamheten och påverka den. Föreningens verksamhetsår är 1 januari till 31 december.
+
 
 #### §2 Bli medlem
 Alla personer som godkänner föreningens stadgar har rätt att bli medlemmar.
@@ -169,5 +163,24 @@ det. För att upplösa Discord-servern måste både Mod-laget och årsmötet god
 Minecraft-servern Trusted ägs och förvaltas av Mod-laget och föreningen tillsammans. För
 att ändra Minecraft-servern Trusteds ägandeskap eller grundläggande regler måste både
 Mod-laget och föreningsstyrelsen godkänna det.
+
+#### §13 Mötesrepresentanter
+Föreningen ska ha en eller flera riksmötesrepresenanter.
+Riksmötesrepresentantens uppgift är att representera föreningen på Sveroks
+Riksmöte.
+
+Föreningen ska ha en eller flera distriktsmötesrepresenanter.
+Distriktsmötesrepresentantens uppgift är att representera föreningen på
+Sveroks distriktsårsmöte.
+
+Representanterna till riksmötet och distriktsårsmötet bör väljas på årsmötet,
+och tillträder så fort mötet är slut. Om årsmötet inte väljer några
+representanter eller om representanterna avgår eller inte kan utföra sitt
+uppdrag väljer styrelsen ersättare.
+
+Om föreningen blir tilldelad fler ombud än vad som finns representanter väljer
+styrelsen resterande ombud. Om föreningen blir tilldelad färre ombud än vad
+vi har valda representanter väljer styrelsen vilka av representanterna som ska
+bli ombud.
 
 
