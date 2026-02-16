@@ -20,7 +20,9 @@ Föreningens namn är Onlineföreningen SGC. Föreningen har sitt säte i Stockh
 - att bedriva forum som är en trygg plats för ungdomar fri från våld och trakasserier,
 - att främja spel och spelkultur,
 - att främja intresset för demokrati,
-- att bedriva aktiviteter och projekt för unga att samlas kring. Föreningen arbetar med likabehandling för att alla medlemmar ska ha samma möjligheter och förutsättningar för att delta i verksamheten och påverka den. Föreningens verksamhetsår är 1 januari till 31 december.
+- att bedriva aktiviteter och projekt för unga att samlas kring. 
+
+Föreningen arbetar med likabehandling för att alla medlemmar ska ha samma möjligheter och förutsättningar för att delta i verksamheten och påverka den. Föreningens verksamhetsår är 1 januari till 31 december.
 
 
 #### §2 Bli medlem
